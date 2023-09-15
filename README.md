@@ -1,3 +1,7 @@
+```
+NAME: ALDRIN LIJO J E
+REG NO: 212222240007
+```
 # Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
